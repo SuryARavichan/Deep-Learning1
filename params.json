@@ -1,0 +1,9 @@
+{
+  "model_name": "nateraw/bert-base-uncased-emotion",
+  "cache_dir": "./model_cache",
+  "server": {
+    "host": "0.0.0.0",
+    "port": 8000
+  },
+  "default_top_k": 3
+}
